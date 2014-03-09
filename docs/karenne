@@ -1,0 +1,14 @@
+Karenne
+=======
+
+Things that worked well
+-----------------------
+* The mentors were very helpful and patient with hackers of all levels of experience
+* The Django for Designers tutorial is a great alternative/supplement to the Official Django Tutorial
+* It was great to meet and be encouraged by fellow learners!
+
+
+Things that I had questions about
+---------------------------------
+* Conceptually, how to plan/structure an app in the Django framework - e.g. I want to create an app that does X, in what order do I build things in Django?  Presumably, start with a model, build a view, then a url and template?
+* Frequently there is a one-to-one-to-one relationship between views, templates, and urls, what are exceptions to this?
